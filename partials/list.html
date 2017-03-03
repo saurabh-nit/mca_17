@@ -1,6 +1,9 @@
-<section class="artistpage">
+<section>
+  <div class="main-wrapper">
+
+
   <div class="search">
-    <h1>Artist Directory</h1>
+    <h1><center>MCA 2014-2017</center></h1>
     <label>search: </label>
     <input ng-model="query" placeholder="Search for artists" autofocus>
 
@@ -19,8 +22,9 @@
       <input type="radio" ng-model="direction" name="direction" value="reverse">
       descending
     </label>
-
-  </div>
+ </div>
+ </div>
+  <div class="newlist">
   <ul class="artistlist">
     <li ng-animate="'animate'" class="artist cf" ng-repeat="item in artists | filter: query | orderBy: artistOrder:direction">
       <a href="#/details/{{artists.indexOf(item)}}">
@@ -28,8 +32,14 @@
         <div class="info">
            <h2>{{item.name}}</h2>
            <h3>{{item.place}}</h3>
+           <h3>{{item.email}}</h3>
         </div>
       </a>
     </li>
   </ul>
+ </div>
+ <footer>
+ <p style="color:#c9ced6;">Contact Us: <a style="color:#c9ced6;" href="https://about.me/rajputankit22">Ankit kumar Rajpoot</a> & <a style="color:#c9ced6;" href="https://about.me/sk_mishra">Saurabh Mishra</a></p>
+ </footer>
+
 </section>

@@ -1,1 +1,1 @@
-index.html
+web: node ./bin/www

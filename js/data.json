@@ -1,0 +1,443 @@
+[
+  {
+    "name":"Shristi Parmanandka",
+    "shortname":"shristi_parmanandka",
+    "dob":"24 April 1993",
+    "place":"Kolkata, West Bengal",
+    "email":"shristiparmanandka@gmail.com"
+  },
+  {
+    "name":"Snehasish Das Gupta",
+    "shortname":"snehasish_das_gupta",
+    "dob":"27 March 1992",
+    "place":"Kolkata, West Bengal",
+    "email":"snehasish.dasgupta27@gmail.com"
+  },
+  {
+    "name":"Oindrila Saha",
+    "shortname":"oindrila_saha",
+    "dob":"9 December 1992",
+    "place":"Kolkata, West Bengal",
+    "email":"oindrila1992@gmail.com"
+  },
+  {
+    "name":"Manisha Kumari",
+    "shortname":"manisha_kumari",
+    "dob":"4 December 1993",
+    "place":"Ranchi, Jharkhand",
+    "email":"manisha.chaudhary1211@gmail.com"
+  },
+  {
+    "name":"Subham Majavadiya",
+    "shortname":"subham_majavadiya",
+    "dob":"21 April 1994",
+    "place":"Neemuch, Madhya Pradesh",
+    "email":"shubh2k17@gmail.com"
+  },
+  {
+    "name":"Shruti Shreya",
+    "shortname":"shruti_shreya",
+    "dob":"9 August 1993",
+    "place":"Darbhanga, Bihar",
+    "email":"rnshruti9@gmail.com"
+  },
+  {
+    "name":"Anup Kumar Soni",
+    "shortname":"anup_kumar_soni",
+    "dob":"20 September 1991",
+    "place":"Singrauli, Madhya Pradesh",
+    "email":"anupsoni6398@gmail.com"
+  },
+  {
+    "name":"Mizan Ur Rehman",
+    "shortname":"mizan_rehman",
+    "dob":"24 April 1993",
+    "place":"Indore, Madhya Pradesh",
+    "email":"mizannitdgp@gmail.com"
+  },
+  {
+    "name":"Nisha Sharma",
+    "shortname":"nisha_sharma",
+    "dob":"7 January 1994",
+    "place":"Shajapur, Madhya Pradesh",
+    "email":"nishee94@gmail.com"
+  },
+  {
+    "name":"Sapna Chouhan",
+    "shortname":"sapna_chouhan",
+    "dob":"15 January 1994",
+    "place":"Dhamnod, Madhya Pradesh",
+    "email":"Chouhan.sapna192@gmail.com"
+  },
+  {
+    "name":"Vivek Kumar Tiwari",
+    "shortname":"vivek_kumar_tiwari",
+    "dob":"15 May 1992",
+    "place":"Jaunpur, Uttar Pradesh",
+    "email":"Vivekmca6@gmail.com"
+  },
+  {
+    "name":"Sk Jhohev",
+    "shortname":"sk_jhohev",
+    "dob":"7 October 1992",
+    "place":"Kolkata, West Bengal",
+    "email":"johev09@gmail.com"
+  },
+  {
+    "name":"Sonam Agrawal",
+    "shortname":"sonam_agrawal",
+    "dob":"15 May 1993",
+    "place":"Varanasi, Uttar Pradesh",
+    "email":"agrawal.sonam680@gmail.com"
+  },
+  {
+    "name":"Tanushree Chakravarty",
+    "shortname":"tanushree_chakravarty",
+    "dob":"12 August 1993",
+    "place":"Kolkata, West Bengal",
+    "email":"tanushreechakravarty@hotmail.com"
+  },
+  {
+    "name":"Shivani Singh",
+    "shortname":"shivani_singh",
+    "dob":"6 October 1992",
+    "place":"Ranchi, Jharkhand",
+    "email":"shivanisingh.06.1992@gmail.com"
+  },
+  {
+    "name":"Tanmay Shrivastava",
+    "shortname":"tanmay_shrivastava",
+    "dob":"16 February 1991",
+    "place":"Satna, Madhya Pradesh",
+    "email":"tan1602@gmail.com"
+  },
+  {
+    "name":"Atul Jain",
+    "shortname":"atul_jain",
+    "dob":"28 September 1992",
+    "place":"Gwalior, Madhya Pradesh",
+    "email":"jatul892@gmail.com"
+  },
+  {
+    "name":"Tejshree Bakore",
+    "shortname":"tejshree_bakore",
+    "dob":"22 June 1993",
+    "place":"Dewas, Madhya Pradesh",
+    "email":"tinks.1993@gmail.com"
+  },
+  {
+    "name":"Saurabh Kumar Mishra",
+    "shortname":"saurabh_kumar_mishra",
+    "dob":"8 June 1991",
+    "place":"Chandauli, Uttar Pradesh",
+    "email":"m.saurabhkumar@yahoo.com"
+  },
+  {
+    "name":"Swati Sinha",
+    "shortname":"swati_sinha",
+    "dob":"24 December 1992",
+    "place":"Patna, Bihar",
+    "email":"sinha.shreya24@gmail.com"
+  },
+  {
+    "name":"Shubham Vyas",
+    "shortname":"shubham_vyas",
+    "dob":"10 September 1992",
+    "place":"Khargone, Madhya Pradesh",
+    "email":"Shubhvyas10@gmail.com"
+  },
+  {
+    "name":"Praveen Kumar",
+    "shortname":"praveen_kumar",
+    "dob":"5 April 1992",
+    "place":"Nawada, Bihar",
+    "email":"kumar.praveen349@rediffmail.com"
+  },
+  {
+    "name":"Sourabh Tiwari",
+    "shortname":"sourabh_tiwari",
+    "dob":"30 July 1993",
+    "place":"Varanasi, Uttar Pradesh",
+    "email":"sourabhvns30@gmail.com"
+  },
+  {
+    "name":"Saurabh Kumar Shukla",
+    "shortname":"saurabh_kumar_shukla",
+    "dob":"3 December, 1992",
+    "place":"Allahabad, Uttar Pradesh",
+    "email":"saurabh.shukla057@gmail.com"
+  },
+  {
+    "name":"Nilesh Rathod",
+    "shortname":"nilesh_rathod",
+    "dob":"5 December, 1992",
+    "place":"Ujjain, Madhya Pradesh",
+    "email":"rathodnnn658@gmail.com"
+  },
+  {
+    "name":"Sandeep Vani",
+    "shortname":"sandeep_vani",
+    "dob":"23 February, 1993",
+    "place":"Alirajpur, Madhya Pradesh",
+    "email":"Sandeeepvani23@gmail.com"
+  },
+  {
+    "name":"Dharmvir Kumar",
+    "shortname":"dharmvir_kumar",
+    "dob":"20 August, 1993",
+    "place":"Rajgeer, Bihar",
+    "email":"sahil.kk.pp@gmail.com"
+  },
+  {
+    "name":"Surbhi Verma",
+    "shortname":"surbhi_verma",
+    "dob":"25 January, 1993",
+    "place":"Indore, Madhya Pradesh",
+    "email":"surbhi.sonu724@gmail.com"
+  },
+  {
+    "name":"Dharmendra Patidar",
+    "shortname":"dharmendra_patidar",
+    "dob":"3 May 1993",
+    "place":"Ujjain, Madhya Pradesh",
+    "email":"dpatidar351@gmail.com"
+  },
+  {
+    "name":"Chetan Das Bairagi",
+    "shortname":"chetan_das_bairagi",
+    "dob":"8 May 1992",
+    "place":"Shajapur, Madhya Pradesh",
+    "email":"Chetanbairagi111@gmail.com"
+  },
+  {
+    "name":"Radhakrishan",
+    "shortname":"radhakrishan",
+    "dob":"3 March 1991",
+    "place":"Morena, Madhya Pradesh",
+    "email":"kushwahakrishna03@gmail.com"
+  },
+  {
+    "name":"Bhavana Rathore",
+    "shortname":"bhavana_rathore",
+    "dob":"24 June 1994",
+    "place":"Dewas, Madhya Pradesh",
+    "email":"shwetarathore.9424@gmail.com"
+  },
+  {
+    "name":"Puspa Kumari",
+    "shortname":"puspa_kumari",
+    "dob":"27 December 1992",
+    "place":"Patna, Bihar",
+    "email":"puspakumari2k11@gmail.com"
+  },
+  {
+    "name":"Abhishek Thakur",
+    "shortname":"abhishek_thakur",
+    "dob":"2 March 1992",
+    "place":"Akshardham, Delhi",
+    "email":"abhi.techno01@gmail.com"
+  },
+  {
+    "name":"Nisha Kumari",
+    "shortname":"nisha_kumari",
+    "dob":"26 July 1992",
+    "place":"Ramgarh, Madhya Pradesh",
+    "email":"nishakumari129@gmail.com"
+  },
+  {
+    "name":"Ruchi Priya",
+    "shortname":"ruchi_priya",
+    "dob":"2 October, 1992",
+    "place":"Munger, Bihar",
+    "email":"ruchipriyax@gmail.com"
+  },
+  {
+    "name":"Akansha Khalkho",
+    "shortname":"akansha_khalkho",
+    "dob":"21 August, 1992",
+    "place":"Chittaranjan, West Bengal",
+    "email":"akansha.crj@gmail.com"
+  },
+  {
+    "name":"Abhishek Kumar",
+    "shortname":"abhishek_kumar",
+    "dob":"1 January 1994",
+    "place":"Jamshedpur, Jharkhand",
+    "email":"abhishekrajak2@gmail.com"
+  },
+  {
+    "name":"Rajesh Kumar",
+    "shortname":"rajesh_kumar",
+    "dob":"25 June 1992",
+    "place":"Patna, Bihar",
+    "email":"rajesh25june1992@gmail.com"
+  },
+  {
+    "name":"Vivek Kumar",
+    "shortname":"vivek_kumar",
+    "dob":"7 June 1992",
+    "place":"Aurangabad, Bihar",
+    "email":"vivekk0231@Gmail.com"
+  },
+  {
+    "name":"Virendra Kumar",
+    "shortname":"virendra_kumar",
+    "dob":"1 January 1994",
+    "place":"Varanasi, Uttar Pradesh",
+    "email":"virukumar0542@gmail.com"
+  },
+  {
+    "name":"Aman Gupta",
+    "shortname":"aman_gupta",
+    "dob":"17 February 1992",
+    "place":"Ramganj Mandi, Kota, Rajasthan",
+    "email":"aman.gupta17.07@gmail.com"
+  },
+  {
+    "name":"Ankit Patni",
+    "shortname":"ankit_patni",
+    "dob":"11 May 1994",
+    "place":"Indore, Madhya Pradesh",
+    "email":"ankitpatni94@yahoo.com"
+  },
+  {
+    "name":"Ankit Kumar Rajpoot",
+    "shortname":"ankit_kumar_rajpoot",
+    "dob":"4 May 1993",
+    "place":"Gadarwara, Madhya Pradesh",
+    "email":"rajputankit22@gmail.com"
+  },
+  {
+    "name":"Anurag Gupta",
+    "shortname":"anurag_gupta",
+    "dob":"18 April 1994",
+    "place":"Jhansi, Uttar Pradesh",
+    "email":"anurag14ca653@gmail.com"
+  },
+  {
+    "name":"Ramesh Kumar Mishra",
+    "shortname":"ramesh_kumar_mishra",
+    "dob":"10 July 1991",
+    "place":"Siddharth Nagar, Uttar Pradesh",
+    "email":"rameshmr7777@gmail.com"
+  },
+  {
+    "name":"Souradeep Saha",
+    "shortname":"souradeep_saha",
+    "dob":"5 February 1993",
+    "place":"Kolkata, West Bengal",
+    "email":"saha.souradeep@gmail.com"
+  },
+  {
+    "name":"Mahesh Yadav",
+    "shortname":"mahesh_yadav",
+    "dob":"13 October 1992",
+    "place":"Dwarka, Delhi",
+    "email":"Yadavmahesh1310@gmail.com"
+  },
+  {
+    "name":"Arpit Mishra",
+    "shortname":"arpit_mishra",
+    "dob":"13 September 1992",
+    "place":"Lucknow, Uttar Pradesh",
+    "email":"arpitnitdgp2017@gmail.com"
+  },
+  {
+    "name":"Horen Koya",
+    "shortname":"horen_koya",
+    "dob":"10 March 1991",
+    "place":"Sivsagar, Assam",
+    "email":"mail2horen@gmail.com"
+  },
+  {
+    "name":"Dheeraj Kumar",
+    "shortname":"dheeraj_kumar",
+    "dob":"31 December 1991",
+    "place":"Patna, Bihar",
+    "email":"dheerajkr.kumar@gmail.com"
+  },
+  {
+    "name":"Raunak Mondal",
+    "shortname":"raunak_mondal",
+    "dob":"10 March 1991",
+    "place":"Kolkata, West Bengal",
+    "email":"raunak.mondal@gmail.com"
+  },
+  {
+    "name":"Avinash Kalal",
+    "shortname":"avinash_kalal",
+    "dob":"25 February 1992",
+    "place":"Baswada, Rajasthan",
+    "email":"avinashkalal68@gmail.com"
+  },
+  {
+    "name":"Tarun Sharma",
+    "shortname":"tarun_sharma",
+    "dob":"7 January 1994",
+    "place":"Indore, Madhya Pradesh",
+    "email":"tarunsharma1808@gmail.com"
+  },
+  {
+    "name":"Bhawna Vanani",
+    "shortname":"bhawna_vanani",
+    "dob":"26 March 1992",
+    "place":"Agra, Uttar Pradesh",
+    "email":"bhawnavanani26@gmail.com"
+  },
+  {
+    "name":"Pankaj Kumar",
+    "shortname":"pankaj_kumar",
+    "dob":"15 December 1993",
+    "place":"Varanasi, Uttar Pradesh",
+    "email":"pankaj21193@gmail.com"
+  },
+  {
+    "name":"Mayank Verma",
+    "shortname":"mayank_verma",
+    "dob":"15 March 1993",
+    "place":"Churu, Rajasthan",
+    "email":"mayank6295@gmail.com"
+  },
+  {
+    "name":"Dinesh Kumar",
+    "shortname":"dinesh_kumar",
+    "dob":"7 August 1994",
+    "place":"Churu, Rajasthan",
+    "email":"dineshsunia@gmail.com"
+  },
+  {
+    "name":"Bappaditya Samanta",
+    "shortname":"bappaditya_samanta",
+    "dob":"22 June 1989",
+    "place":"Kolkata, West Bengal",
+    "email":"bappadityasamanta@gmail.com"
+  },
+  {
+    "name":"Nandita Singh",
+    "shortname":"nandita_singh",
+    "dob":"17 August 1993",
+    "place":"Patna, Bihar",
+    "email":"nanditasingh404@gmail.com"
+  },
+  {
+    "name":"Mamta Gautam",
+    "shortname":"mamta_gautam",
+    "dob":"4 July 1993",
+    "place":"Mughalsarai, Uttar Pradesh",
+    "email":"mamta04gautam@gmail.com"
+  },
+  {
+    "name":"Abhishek Aggarwal",
+    "shortname":"abhishek_aggarwal",
+    "dob":"2 January 1993",
+    "place":"Patna, Bihar",
+    "email":"aggarwal2k14@gmail.com"
+  },
+  {
+    "name":"Umesh Kumar",
+    "shortname":"umesh_kumar",
+    "dob":"6 August 1991",
+    "place":"Patna, Bihar",
+    "email":"umeshjvm@gmail.com"
+  }
+]

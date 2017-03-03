@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Demo</title>
+
+
+<script src="https://www.gstatic.com/firebasejs/3.6.10/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBVT4pcwgAZPBld4CbtB7ljQN84hSJ4mm0",
+    authDomain: "angular1-12181.firebaseapp.com",
+    databaseURL: "https://angular1-12181.firebaseio.com",
+    storageBucket: "angular1-12181.appspot.com",
+    messagingSenderId: "86215839075"
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+
+  <!-- <script src="./lib/augular-firbase.min.js"></script>
+  <script src="./lib/firebase.js"></script> -->
+
+  <script src="lib/angular/angular.min.js"></script>
+  <script src="lib/angular/angular-route.min.js"></script>
+  <script src="lib/angular/angular-animate.min.js"></script>
+
+  <script src="js/app.js"></script>
+  <script src="js/controllers.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="main" ng-view></div>
+</body>
+</html>
